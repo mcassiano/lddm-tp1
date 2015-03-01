@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="msg_address_not_found">Sem endereço</string>
+    <string name="msg_directions">Abrir no mapa</string>
+    <string name="msg_failed_opening_map">Falha ao abrir no mapa</string>
+    <string name="msg_find_contact">Procurar contato</string>
+    <string name="msg_no_contact_selected">Nenhum contato selecionado</string>
+    <string name="msg_no_email_address">Sem email</string>
+    <string name="msg_no_phone_number">Sem telefone</string>
+    <string name="msg_select_email_client">Enviar email</string>
+</resources>
